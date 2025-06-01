@@ -25,7 +25,7 @@ stations = {
     "省人民医院·黄雁村": (108.9284088, 34.2428324)
 }
 
-key = ""
+key = "" #高德APIkey
 citycode = "029"  #城市代码
 pairs = list(combinations(stations.items(), 2))
 
